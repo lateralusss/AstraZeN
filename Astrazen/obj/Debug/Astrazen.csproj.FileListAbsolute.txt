@@ -11,3 +11,15 @@ C:\Users\rnc47\source\repos\Astrazen\Astrazen\obj\Debug\Astrazen.csproj.CoreComp
 C:\Users\rnc47\source\repos\Astrazen\Astrazen\obj\Debug\Astrazen.exe
 C:\Users\rnc47\source\repos\Astrazen\Astrazen\obj\Debug\Astrazen.pdb
 C:\Users\rnc47\source\repos\Astrazen\Astrazen\obj\Debug\Astrazen.csproj.CopyComplete
+C:\Users\rnc47\Documents\SLVTSITE\AstraZeN\Astrazen\bin\Debug\Astrazen.exe.config
+C:\Users\rnc47\Documents\SLVTSITE\AstraZeN\Astrazen\bin\Debug\Astrazen.exe
+C:\Users\rnc47\Documents\SLVTSITE\AstraZeN\Astrazen\bin\Debug\Astrazen.pdb
+C:\Users\rnc47\Documents\SLVTSITE\AstraZeN\Astrazen\bin\Debug\EasyExploits.dll
+C:\Users\rnc47\Documents\SLVTSITE\AstraZeN\Astrazen\bin\Debug\FastColoredTextBox.dll
+C:\Users\rnc47\Documents\SLVTSITE\AstraZeN\Astrazen\obj\Debug\Astrazen.csproj.AssemblyReference.cache
+C:\Users\rnc47\Documents\SLVTSITE\AstraZeN\Astrazen\obj\Debug\Astrazen.AstraZeN.resources
+C:\Users\rnc47\Documents\SLVTSITE\AstraZeN\Astrazen\obj\Debug\Astrazen.Properties.Resources.resources
+C:\Users\rnc47\Documents\SLVTSITE\AstraZeN\Astrazen\obj\Debug\Astrazen.csproj.GenerateResource.cache
+C:\Users\rnc47\Documents\SLVTSITE\AstraZeN\Astrazen\obj\Debug\Astrazen.csproj.CoreCompileInputs.cache
+C:\Users\rnc47\Documents\SLVTSITE\AstraZeN\Astrazen\obj\Debug\Astrazen.exe
+C:\Users\rnc47\Documents\SLVTSITE\AstraZeN\Astrazen\obj\Debug\Astrazen.pdb
